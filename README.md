@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="tui.png" style:"width: 100px;"/>
+<img src="tui.png" width=500px />
 </p>
 
 CPID is a C++ program that controls and reads data from an Arduino through a serial connection and a simple ncurses interface.
